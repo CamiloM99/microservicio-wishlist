@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot - WishlistApplication",
+      "request": "launch",
+      "mainClass": "com.sena.wishlist.WishlistApplication",
+      "projectName": "wishlist",
+      "env": {
+        "JWT_SECRET": "a235903bfb0ea4192cc0e140ea86d6cb5925f00dc901fb078cb65d0fd14a820c",
+        "JWT_EXPIRATION": "7200000"
+      }
+    }
+  ]
+}
+
